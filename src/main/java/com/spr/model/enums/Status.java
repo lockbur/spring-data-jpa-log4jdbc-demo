@@ -11,7 +11,8 @@ package com.spr.model.enums;
  */
 public enum Status {
 
-	UNASSIGNED("Оґґ¦Ан"), ERROR("ERROR");
+	UNASSIGNED("жњЄе¤„зђ†"), 
+	ERROR("ERROR");
 
 	private String key;
 
